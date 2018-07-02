@@ -1,0 +1,29 @@
+{
+  "name": "fullstack-js",
+  "version": "1.0.0",
+  "description": "JS App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegMarko/fullstack-js.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Oleg Marko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OlegMarko/fullstack-js/issues"
+  },
+  "homepage": "https://github.com/OlegMarko/fullstack-js#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
