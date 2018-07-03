@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/OlegMarko/fullstack-js#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongoose": "^5.2.0"
   },
   "devDependencies": {
     "nodemon": "^1.17.5"
